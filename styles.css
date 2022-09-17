@@ -90,7 +90,7 @@ body {
   transition: 0.4s;
 }
 
-.active h3 {
+.active h1 {
   font-weight: 700;
 }
 
